@@ -8,6 +8,7 @@ The reason why I decided to use customtkinter instead of imports such as pygame 
 - [Aiden Sorabji](https://github.com/AidenSorabji)
 - [Tom Schimansky](https://github.com/TomSchimansky) | [customtkinter](https://github.com/TomSchimansky/CustomTkinter)
 - [Mojang](https://github.com/mojang)
+- [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)
 
 ## Copyright
 MIT License
