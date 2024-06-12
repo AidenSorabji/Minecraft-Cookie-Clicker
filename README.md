@@ -1,6 +1,8 @@
 # Minecraft Cookie Clicker
 A cookie clicker clone centered around the game "Minecraft". Made in Python with customtkinter.
 
+![alt text](https://github.com/AidenSorabji/Minecraft-Cookie-Clicker/blob/main/minecraft-clicker-thumbnail.png)
+
 ## Why Use Customtkinter instead of Pygame?
 The reason why I decided to use customtkinter instead of imports such as pygame is because I wanted this challenge to be hard instead of easy, customtkinter is a GUI library used for making simple UIs for simple applications and is in no way made for game development. I challenged myself to use customtkinter as a game development library to create a game that streches beyond what customtkinter can normally do.
 
